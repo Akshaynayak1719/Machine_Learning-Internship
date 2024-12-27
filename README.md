@@ -1,6 +1,3 @@
-# Machine_Learning-Internship
-
-
 # Handwritten Digit Prediction Project
 
 This project predicts handwritten digits using the Logistic Regression algorithm.
