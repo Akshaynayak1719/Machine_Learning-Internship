@@ -11,7 +11,7 @@ It utilizes the scikit-learn library and visualizes the digits dataset.
 
 ## How to Run:
 1. Install the required libraries: pip install -r requirements.txt
-2. Run the script: python handwritten_digit_prediction.py`
+2. Run the script: python handwritten_digit_prediction.py
 
 ## Files:
 - handwritten_digit_prediction.py: The main Python script.
